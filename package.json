@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/awx000010",
-	"version": "1.0.202004030859",
+	"version": "1.0.202004030902",
 	"description": "隐藏消息提示框",
 	"scripts": {
 		"test": "tsc -w",
